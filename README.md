@@ -86,3 +86,4 @@ O escopo do projeto foi expandido para cobrir os seguintes desafios adicionais:
 2. Certifique-se de que os três arquivos (index.html, style.css, script.js) estão na mesma pasta (ventilador/);
 3. Abra o arquivo index.html diretamente em qualquer navegador web moderno (Chrome, Edge, Firefox, Safari) ou utilize a extensão Live Server no VS Code.
 
+![print 1](ventilador.png)
